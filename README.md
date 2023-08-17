@@ -4,4 +4,4 @@ Part of the Flutter & Dart - The Complete Guide Udemy course. This is from the o
 
 # Demo
 
-![Old Expense Tracker Demo](https://github.com/kots75/flutter-expense-tracker-old/assets/89786207/2d6b19ed-c63f-4b2c-adfd-b924370f0a67)
+![Old Expense Tracker Demo](/assets/Demo.gif =250x250)
