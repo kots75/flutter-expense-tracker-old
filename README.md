@@ -4,4 +4,4 @@ Part of the Flutter & Dart - The Complete Guide Udemy course. This is from the o
 
 # Demo
 
-![Old Expense Tracker Demo](/assets/Demo.gif =250x250)
+![Old Expense Tracker Demo](/assets/Demo.gif)
