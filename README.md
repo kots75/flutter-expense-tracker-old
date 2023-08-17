@@ -4,4 +4,4 @@ Part of the Flutter & Dart - The Complete Guide Udemy course. This is from the o
 
 # Demo
 
-<img src="/assets/Demo.gif" width="400" height="700"/>
+<img src="/assets/Demo.gif" width="300" height="600"/>
