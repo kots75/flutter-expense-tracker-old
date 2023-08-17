@@ -1,16 +1,3 @@
-# expenses_app
+# Expense Tracker App (Old)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Part of the Flutter & Dart - The Complete Guide Udemy course. This is from the old legacy course that does not use material3 or the latest approaches to flutter development used in the updated course.
